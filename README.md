@@ -6,6 +6,3 @@ UPDATE 2.0.0:
 -AMOLED Black is effective in more places in the Discord API
 -Sidebar Animations slide the user list and the channels list in and out when you move your mouse
 
-UPDATE 2.0.0:
--AMOLED Black is effective in more places in the Discord API
--Sidebar Animations slide the user list and the channels list in and out when you move your mouse
