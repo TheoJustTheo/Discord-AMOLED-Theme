@@ -1,11 +1,12 @@
 // ==UserScript==
-// @name Discord AMOLED Black
-// @version 2.1.0
+// @name Discord AMOLED Dark Theme
+// @version 2.1.2
 // @author JustTheo
 // @namespace http://tampermonkey.net/
 // @run-at document-start
 // @include https://discord.com/*
 // @description Dark Theme
+// @license MIT
 // ==/UserScript==
 
 (function() {
